@@ -1,0 +1,14 @@
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/bin/Debug/netstandard2.0/FirebaseStorageProject.deps.json
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/bin/Debug/netstandard2.0/FirebaseStorageProject.dll
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/bin/Debug/netstandard2.0/ref/FirebaseStorageProject.dll
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/bin/Debug/netstandard2.0/FirebaseStorageProject.pdb
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/FirebaseStorageProject.csprojAssemblyReference.cache
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/FirebaseStorageProject.AssemblyInfoInputs.cache
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/FirebaseStorageProject.AssemblyInfo.cs
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/FirebaseStorageProject.csproj.CoreCompileInputs.cache
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/FirebaseStorageProject.dll
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/ref/FirebaseStorageProject.dll
+/Users/shannon/Projects/FirebaseStorageProject/FirebaseStorageProject/obj/Debug/netstandard2.0/FirebaseStorageProject.pdb
