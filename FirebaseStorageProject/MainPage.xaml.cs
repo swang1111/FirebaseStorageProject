@@ -9,20 +9,19 @@ namespace FirebaseStorageProject
 {
     public partial class MainPage : ContentPage
     {
-        /*FirebaseStorageHelper firebaseStorageHelper = new FirebaseStorageHelper();
-        MediaFile file;*/
+        FirebaseStorageModel firebaseStorageHelper = new FirebaseStorageModel();
+        MediaFile file;
         public MainPage()
         {
             InitializeComponent();
         }
 
-        /*protected async override void OnAppearing()
+        protected async override void OnAppearing()
         {
 
             base.OnAppearing();
 
         }
-
 
         private async void BtnPick_Clicked(object sender, EventArgs e)
         {
@@ -51,12 +50,6 @@ namespace FirebaseStorageProject
         {
             await firebaseStorageHelper.UploadFile(file.GetStream(), Path.GetFileName(file.Path));
         }
-        private async void BtnDelete_Clicked(object sender, EventArgs e)
-        {
-            await firebaseStorageHelper.DeleteFile(txtFileName.Text);
-            lblPath.Text = string.Empty;
-            await DisplayAlert("Success", "Deleted", "OK");
-        }
 
         private async void BtnDownload_Clicked(object sender, EventArgs e)
         {
@@ -67,7 +60,14 @@ namespace FirebaseStorageProject
                 await DisplayAlert("Success", path, "OK");
             }
 
-        }*/
+        }
+
+        private async void BtnDelete_Clicked(object sender, EventArgs e)
+        {
+            await firebaseStorageHelper.DeleteFile(txtFileName.Text);
+            lblPath.Text = string.Empty;
+            await DisplayAlert("Success", "Deleted", "OK");
+        }
 
     }
 }
