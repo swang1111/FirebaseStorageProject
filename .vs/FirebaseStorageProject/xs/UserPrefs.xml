@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{4F496B2E-8F9A-4B79-B743-B2D7BFC0706F}|Default">
   <MonoDevelop.Ide.ItemProperties.FirebaseStorageProject.iOS FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.FirebaseStorageProject.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FirebaseStorageProject/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirebaseStorageProject/FirebaseStorageModel.cs">
     <Files>
       <File FileName="FirebaseStorageProject/App.xaml" Line="1" Column="1" />
-      <File FileName="FirebaseStorageProject/MainPage.xaml" Line="25" Column="1" />
-      <File FileName="FirebaseStorageProject/FirebaseStorage.cs" Line="19" Column="14" />
-      <File FileName="FirebaseStorageProject/App.xaml.cs" Line="12" Column="35" />
-      <File FileName="FirebaseStorageProject/MainPage.xaml.cs" Line="28" Column="40" />
+      <File FileName="FirebaseStorageProject/MainPage.xaml" Line="18" Column="31" />
+      <File FileName="FirebaseStorageProject/App.xaml.cs" />
+      <File FileName="FirebaseStorageProject/MainPage.xaml.cs" Line="26" Column="34" />
+      <File FileName="FirebaseStorageProject/FirebaseStorageModel.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,9 +15,8 @@
           <Node name="FirebaseStorageProject" expanded="True">
             <Node name="FirebaseStorageProject" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="FirebaseStorageModel.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>

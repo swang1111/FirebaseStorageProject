@@ -9,12 +9,12 @@
                 <Image x:Name="imgChoosed" HeightRequest="150"></Image>
                 <Entry x:Name="txtFileName" Placeholder="Enter FileName"></Entry>
                 <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
-                    <Button x:Name="btnPick" WidthRequest="200" Text="Pick" />  <!--Clicked="BtnPick_Clicked"/>-->
-                    <Button x:Name="btnUpload" WidthRequest="200" Text="Upload"  />  <!--Clicked="BtnUpload_Clicked" />-->
+                    <Button x:Name="btnPick" WidthRequest="200" Text="Pick" Clicked="BtnPick_Clicked"/>  
+                    <Button x:Name="btnUpload" WidthRequest="200" Text="Upload" Clicked ="BtnUpload_Clicked" />
                 </StackLayout>
                 <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
-                    <Button x:Name="btnDownload" WidthRequest="200" Text="Download" />  <!--Clicked="BtnDownload_Clicked" />-->
-                    <Button x:Name="btnDelete" WidthRequest="200" Text="Delete" />   <!--Clicked="BtnDelete_Clicked" />-->
+                    <Button x:Name="btnDownload" WidthRequest="200" Text="Download" Clicked="BtnDownload_Clicked" />
+                    <Button x:Name="btnDelete" WidthRequest="200" Text="Delete" Clicked="BtnDelete_Clicked" />
                 </StackLayout>
                 <Label x:Name="lblPath"></Label>
 
