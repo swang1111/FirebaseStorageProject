@@ -10,7 +10,7 @@ namespace FirebaseStorageProject
         FirebaseStorage firebaseStorage;
         public FirebaseStorageModel()
         {
-            firebaseStorage = new FirebaseStorage("gs://fir-storageproject-1b4a6.appspot.com/");
+            firebaseStorage = new FirebaseStorage("fir-storageproject-1b4a6.appspot.com");
         }
 
         public async Task<string> UploadFile(Stream fileStream, string fileName)

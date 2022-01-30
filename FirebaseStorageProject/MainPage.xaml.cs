@@ -48,7 +48,8 @@ namespace FirebaseStorageProject
 
         private async void BtnUpload_Clicked(object sender, EventArgs e)
         {
-            await firebaseStorageHelper.UploadFile(file.GetStream(), Path.GetFileName(file.Path));
+            await firebaseStorageHelper.UploadFile(file.GetStream(), txtFileName.Text);
+            //Path.GetFileName(file.Path)
         }
 
         private async void BtnDownload_Clicked(object sender, EventArgs e)
